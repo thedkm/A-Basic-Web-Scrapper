@@ -1,6 +1,7 @@
 # A-Basic-Web-Scrapper
 
 A Basic Web Scrapper script  which can finds information of Graphics Card listed on Sale on newegg.com
+it also makes the csv file for the same
 
 On terminal use "py webscarpper.py" to run the script
 
